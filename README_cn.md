@@ -36,7 +36,7 @@ JournalKeeper提供了[Journal Keeper Coordinating Service API(JK-CS API)](./jou
 
 ## JournalKeeper有哪些特性？
 
-JournalKeeper的核心是一个面向大规模分布式集群优化过的，高性能的RAFT类库。它严格按照[RAFT论文](https://raft.github.io/raft.pdf)完整的实现了的全部特性，包括：
+JournalKeeper的核心是一个面向大规模分布式集群优化过的，高性能的RAFT类库。它严格按照 [RAFT论文](https://raft.github.io/raft.pdf) 完整的实现了的全部特性，包括：
 
 * 复制状态机
 * 一致性日志复制
